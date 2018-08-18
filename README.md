@@ -40,6 +40,3 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
  3. [Week3 - Object detection](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week3/Car%20detection%20for%20Autonomous%20Driving) - Papers for read: [You Only Look Once:
 Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
  4. Week4 - [Special applications: Face recognition & Neural style transfer](https://github.com/enggen/Deep-Learning-Coursera/tree/master/Convolutional%20Neural%20Networks/Week4) - Papers for read: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
- 
- <p align="center"> *************************************************************************************************************************************</p>
-<div align="center"><img src ="https://github.com/enggen/Deep-Learning-Coursera/blob/master/Sequence%20Models/Week3/Trigger%20word%20detection/images/keep-calm-because-it-s-all-done.jpg"  width="1000" height="1100" /></div>
